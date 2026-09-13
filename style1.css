@@ -24,3 +24,9 @@
     flex-wrap: wrap;
     display:flex;
 }
+.a{
+    flex:1;
+}
+.b{
+    flex:1;
+}
