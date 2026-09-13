@@ -21,7 +21,7 @@
 }
 .abc{
     gap:24px;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
     display:flex;
 }
 .ab{
