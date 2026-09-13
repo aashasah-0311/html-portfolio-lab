@@ -22,4 +22,5 @@
 .abc{
     gap:25px;
     flex-wrap: wrap;
+    display:flex;
 }
