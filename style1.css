@@ -15,14 +15,14 @@
     flex:1;
      min-width:300px;
     background-color: pink;
-    border: 1px solid #ccc;
+    border: 5px solid blue;
 }
 
 .everything{
     flex:1;
     min-width: 300px;
     background-color:pink;
-    border: 1px solid #ccc;
+    border: 5px solid blue;
 }
 .abcd{
     width: 0%;
