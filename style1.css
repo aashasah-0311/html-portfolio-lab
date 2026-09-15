@@ -25,7 +25,7 @@
     border: 5px solid blue;
 }
 .abcd{
-    width: 50px;%;
+    width: 50%;
     max width:500px;
     gap: 10px;
     flex-wrap:wrap;
