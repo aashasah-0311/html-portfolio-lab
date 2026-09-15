@@ -27,7 +27,6 @@
 .abcd{
     width: 100%;
     max width: 400px;
-    gap: 15px;
     flex-wrap:wrap;
     display:flex;
 }
