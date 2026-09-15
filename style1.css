@@ -14,14 +14,14 @@
 .anything{
     flex:1;
      min-width:300px;
-    background-color: aqua;
+    background-color: pink;
     border: 1px solid #ccc;
 }
 
 .everything{
     flex:1;
     min-width: 300px;
-    background-color: aqua;
+    background-color:pink;
     border: 1px solid #ccc;
 }
 .abcd{
