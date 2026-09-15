@@ -2,7 +2,7 @@
     width:50%;
     max width:300px;
     display:flex;
-    gap:24px;
+    gap:30px;
     flex-wrap:wrap;
 }
 
@@ -22,7 +22,7 @@
 .abcd{
     width: 100%;
     max width: 400px;
-    gap:15px;
+    gap:10px;
     flex-wrap:wrap;
     display:flex;
 }
