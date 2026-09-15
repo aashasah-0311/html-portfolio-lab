@@ -2,27 +2,27 @@
     width:50%;
     max width:300px;
     display:flex;
-    gap:10px;
+    gap:15px;
     flex-wrap:wrap;
 }
 
 .anything{
     flex:1;
-     min-width:200px;
+     min-width:300px;
     background-color: aqua;
     border: 1px solid #ccc;
 }
 
 .everything{
     flex:1;
-    min-width: 200px;
+    min-width: 300px;
     background-color: aqua;
     border: 1px solid #ccc;
 }
 .abcd{
     width: 100%;
     max width: 400px;
-    gap:10px;
+    gap: 15px;
     flex-wrap:wrap;
     display:flex;
 }
@@ -33,6 +33,7 @@
 .ef{
     flex: 1;
     background-color: aqua;
+    border: 1px solid #ccc;
     min-width: 200px;
 }
 .cd{
