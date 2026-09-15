@@ -30,6 +30,11 @@
     flex:1;
     min-width:200px;
 }
+.ef{
+    flex: 1;
+    background-color: aqua;
+    min-width: 200px;
+}
 .cd{
     flex:1;
       min-width:200px;
