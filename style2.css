@@ -2,22 +2,20 @@
     border border-style: groove;
 }
 .def{
-    color: aqua;
+   border-style: dotted;
 }
 .ghi{
-    background-color: pink;
-}
+  border-style: dashed;
 .jkl{
-    padding-left: 50px;
+  border-style: double;
 }
 .mno{
-    border: 10px solid green;
+    border-style: inset;
 }
 .abc{
-    margin-left: 20px;
-}
+   border-style: outset;
 .a{
-    margin-left: 10px;
+border-style: outset;
 
 }
 .b{
