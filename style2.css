@@ -21,6 +21,9 @@
 }
 .b{
 background-image: url("comp.png");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
 }
 .c{
 
