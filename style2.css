@@ -1,5 +1,5 @@
 .abc{
-    border border-style: groove;
+ border-style: groove;
 }
 .def{
    border-style: dotted;
@@ -14,8 +14,9 @@
 }
 .abc{
    border-style: outset;
+}
 .a{
-border-style: outset;
+
 
 }
 .b{
