@@ -9,9 +9,7 @@
 .jkl{
   border-style: double;
 }
-.mno{
-    border-style: inset;
-}
+
 .abc{
    border-style: outset;
 }
@@ -30,4 +28,7 @@ background-position: center;
 }
 .d{
 
+}
+.mno{
+  border-style: inset;
 }
