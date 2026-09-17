@@ -1,32 +1,9 @@
 .abc{
- border-style: groove;
+ border-style: inset;
 }
 .def{
-   border-style: dotted;
+   border-style: outset;
 }
 .ghi{
-  border-style: dashed;
-}
-.A{
-  border-style: outset;
-
-}
-
-
-.a{
-
-
-}
-.body{
-background-image: url('comp.png');
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
-}
-.c{
-
-}
-.d{
-
-
+  border-style: ridge;
 }
