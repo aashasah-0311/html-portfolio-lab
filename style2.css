@@ -32,3 +32,6 @@ background-position: center;
 .mno{
   border-style: inset;
 }
+.computer{
+  border-style: outset;
+}
