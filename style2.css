@@ -6,13 +6,13 @@
 }
 .ghi{
   border-style: dashed;
-.jkl{
-  border-style: double;
+}
+.A{
+  border-style: outset;
+
 }
 
-.abc{
-   border-style: outset;
-}
+
 .a{
 
 
@@ -27,12 +27,6 @@ background-position: center;
 
 }
 .d{
-  
 
-}
-.mno{
-  border-style: inset;
-}
-.computer{
-  border-style: outset;
+
 }
